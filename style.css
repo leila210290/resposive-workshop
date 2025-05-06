@@ -106,6 +106,7 @@ nav a {
     display: flex;
     justify-content: center;
     margin-top: 50px;
+    font-size: 40px;
   }
 
   .meals {
